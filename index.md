@@ -7,3 +7,27 @@
 #
 layout: default
 ---
+layout: resume
+title: Priscila Zavala
+permalink: /
+---
+
+# Priscila Zavala
+
+## Sobre mí
+
+Soy un profesional con experiencia en...
+
+## Experiencia
+
+### Puesto en Empresa
+
+Descripción del puesto...
+
+## Educación
+
+### Grado en Universidad
+
+Descripción del grado...
+
+---
