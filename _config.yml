@@ -1,6 +1,6 @@
 # Site
 repository: sproogen/resume-theme
-favicon: images/favicon.ico
+favicon: images/favicon.ico    
 
 # Content configuration version
 version: 2
@@ -21,8 +21,8 @@ github_username:  sproogen
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+instagram_username: priscilazvla
+linkedin_username: linkedin.com/in/priscila-jazmín-zavala-santoyo-a0a1ba308
 # xing_username: jekyll
 # pinterest_username: jekyll
 youtube_username: globalmtb
@@ -46,7 +46,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/circulo.jpg
 about_content: | # this will include new lines to allow paragraphs
   I am an enthusiastic person, eager to learn and gain new knowledge. I enjoy working in a team and taking on leadership roles, but I also know how to listen and follow instructions. I am willing to face new challenges and explore new learning paths.
 
